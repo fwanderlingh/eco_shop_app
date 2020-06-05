@@ -1,0 +1,41 @@
+[
+  {
+    "name":"Verde Sfuso",
+    "address": "Via Rivale 14R, Genova, 16129",
+    "contact" : "010 4559735",
+    "photo": "http://www.verdesfuso.it/images/slider-1-1920x1080.jpg",
+    "url": "http://www.verdesfuso.it"
+  },
+
+  {
+    "name":"La Formica",
+    "address": "Via Trebisonda 16/r, Genova, 16129, Italia",
+    "contact" : "010 9820865",
+    "photo": "https://econegoziolaformica.it/formica/wp-content/uploads/2020/01/DSC_2543_1.jpg",
+    "url": "https://econegoziolaformica.it"
+  },
+
+  {
+    "name":"La Bottega Solidale",
+    "address": "Calata Cattaneo 11, Palazzo Millo, Genova, 16123, Italia",
+    "contact" : "010 8061364",
+    "photo": "http://www.bottegasolidale.it/modulo%20prenotazioni/bottega-solidale-commercio-equo-solidale-312721.660x368.jpg",
+    "url": "http://www.bottegasolidale.it"
+  },
+
+  {
+    "name":"Gli Orti di Staglieno",
+    "address": "Via delle Gavette SNC, Genova, 16138, Italia",
+    "contact" : "335 6567657",
+    "photo": "http://www.gliortidistaglieno.com/wp-content/uploads/2016/11/Orti-di-Staglieno_023.jpg",
+    "url": "https://http://www.gliortidistaglieno.com"
+  },
+
+  {
+    "name":"Agriturismo di Sant’Ilario",
+    "address": "Via Giovanni Torti 105/A, Genova, 16145, Italia",
+    "contact" : "010 323686",
+    "photo": "https://www.agriturismosantilario.it/templates/yootheme/cache/agriturismo_03-2adc16e7.webp",
+    "url": "https://www.agriturismosantilario.it"
+  }
+]
